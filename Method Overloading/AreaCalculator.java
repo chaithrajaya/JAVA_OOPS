@@ -1,11 +1,11 @@
 class AreaCalculator{
-    int area_square(int side){
+    int area(int side){
         return side*side;
     }
-    int area_rectangle(int length,int breadth){
+    int area(int length,int breadth){
         return length*breadth;
     }
-    double area_circle(int radius){
+    double area(int radius){
         return 3.14*radius*radius;
     }
     public static void main(String[] args){
