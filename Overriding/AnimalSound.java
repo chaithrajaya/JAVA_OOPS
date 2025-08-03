@@ -14,4 +14,7 @@ public class AnimalSound{
         Animal a = new Dog();
         a.makeSound();
     }
+
 }
+
+// Dog barks
