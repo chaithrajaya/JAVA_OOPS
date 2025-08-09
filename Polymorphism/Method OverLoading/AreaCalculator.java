@@ -16,3 +16,4 @@ class AreaCalculator{
           System.out.println("Area of a circle is: "+ calc.area(10));
     }
 }
+
